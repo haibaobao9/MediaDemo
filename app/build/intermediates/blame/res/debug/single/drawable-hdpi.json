@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/james/Downloads/MediaDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/james/Downloads/MediaDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/james/code_dir/MediaDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/james/code_dir/MediaDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/james/Downloads/MediaDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/james/Downloads/MediaDemo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/james/code_dir/MediaDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/james/code_dir/MediaDemo/app/src/main/res/menu/main.xml"
+    }
+]
